@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/websocket-react-app/static/css/main.9a65477e.css",
+    "main.js": "/websocket-react-app/static/js/main.cde03d28.js",
+    "index.html": "/websocket-react-app/index.html",
+    "main.9a65477e.css.map": "/websocket-react-app/static/css/main.9a65477e.css.map",
+    "main.cde03d28.js.map": "/websocket-react-app/static/js/main.cde03d28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a65477e.css",
+    "static/js/main.cde03d28.js"
+  ]
+}
